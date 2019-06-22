@@ -1,0 +1,8 @@
+name: CrossServerAFK
+description: None.
+
+author: SavageAvocado.
+website: savagedev.net
+
+main: net.savagedev.afk.spigot.CrossServerAFKSpigot
+version: 1.0

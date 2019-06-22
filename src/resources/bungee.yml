@@ -1,0 +1,5 @@
+name: CrossServerAFK
+version: 1.0
+
+main: net.savagedev.afk.bungee.CrossServerAFKBungee
+author: SavageAvocado
